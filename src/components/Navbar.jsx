@@ -72,7 +72,7 @@ const Navbar = ({navOpen}) => {
   )
 }
 
-Navbar.PropTypes = {
+Navbar.propTypes = {
     navOpen: PropTypes.bool.isRequired
 }
 
